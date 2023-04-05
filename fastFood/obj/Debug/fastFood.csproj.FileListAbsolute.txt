@@ -1,0 +1,14 @@
+D:\Quỳnh Hương\fastFood\fastFood\bin\Debug\fastFood.exe.config
+D:\Quỳnh Hương\fastFood\fastFood\bin\Debug\fastFood.exe
+D:\Quỳnh Hương\fastFood\fastFood\bin\Debug\fastFood.pdb
+D:\Quỳnh Hương\fastFood\fastFood\obj\Debug\fastFood.csproj.AssemblyReference.cache
+D:\Quỳnh Hương\fastFood\fastFood\obj\Debug\fastFood.csproj.SuggestedBindingRedirects.cache
+D:\Quỳnh Hương\fastFood\fastFood\obj\Debug\fastFood.Form1.resources
+D:\Quỳnh Hương\fastFood\fastFood\obj\Debug\fastFood.Properties.Resources.resources
+D:\Quỳnh Hương\fastFood\fastFood\obj\Debug\fastFood.csproj.GenerateResource.cache
+D:\Quỳnh Hương\fastFood\fastFood\obj\Debug\fastFood.csproj.CoreCompileInputs.cache
+D:\Quỳnh Hương\fastFood\fastFood\obj\Debug\fastFood.exe
+D:\Quỳnh Hương\fastFood\fastFood\obj\Debug\fastFood.pdb
+D:\Quỳnh Hương\fastFood\fastFood\obj\Debug\fastFood.Login.resources
+D:\Quỳnh Hương\fastFood\fastFood\bin\Debug\Guna.UI2.dll
+D:\Quỳnh Hương\fastFood\fastFood\obj\Debug\fastFood.csproj.CopyComplete
